@@ -1,0 +1,7 @@
+.bottomNavFooter {
+    background-color: #455d7a !important;
+    color: white !important;
+    min-width: 3.5vw;
+    border-top: solid #373a40 2px;
+    text-align: center;
+}

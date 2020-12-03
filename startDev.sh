@@ -1,0 +1,1 @@
+gatsby clean && gatsby develop

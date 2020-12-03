@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #455d7a !important;
+    color: white;
+    min-width: 3.5vw;
+    border-bottom: solid #373a40 2px;
+}
+
+.rvlogoImg {
+    margin: 1vw;
+}
+
+.navbar-item {
+    color: white !important;
+}
